@@ -20,7 +20,7 @@ A simple responsive portfolio website hosted on AWS S3 and served securely using
 6. Configured HTTPS access.
 7. Verified the live website.
 
-## Live Website
+## Live Website: https://dz1ghwqh6gr66.cloudfront.net
 
 ## Task 2: Deploy Portfolio Website using Docker on AWS EC2
 
@@ -47,4 +47,5 @@ A simple responsive portfolio website hosted on AWS S3 and served securely using
 
 The portfolio website was successfully deployed on AWS EC2 using Docker and accessed through the public IP address.
 
-https://dz1ghwqh6gr66.cloudfront.net
+Live Website:
+http://13.206.221.11
